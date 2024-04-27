@@ -10,6 +10,6 @@
 # Topics 👩‍💻
 * Marco Legal 📒
 * Fundamentos de la Declaración 📌
-* Ley 529 de 1999
+* Ley 529 de 1999 📣
 * Derechos de los ciudadanos en el entorno digital
 
